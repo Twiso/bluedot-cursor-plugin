@@ -1,0 +1,15 @@
+{
+  "name": "bluedot",
+  "displayName": "Bluedot",
+  "version": "1.1.0",
+  "description": "Your Bluedot recordings, in Cursor. Search what was discussed, recap last week's calls, and turn decisions into plans and tickets.",
+  "author": {
+    "name": "Bluedot",
+    "url": "https://www.bluedothq.com"
+  },
+  "keywords": ["bluedot", "mcp", "meetings", "recordings", "transcripts", "summaries", "tasks", "tickets", "linear"],
+  "logo": "logo.svg",
+  "primaryColor": "#4173FF",
+  "license": "MIT",
+  "homepage": "https://www.bluedothq.com"
+}
